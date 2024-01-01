@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    testImplementation("org.amshove.kluent:kluent:1.73")
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 }
 

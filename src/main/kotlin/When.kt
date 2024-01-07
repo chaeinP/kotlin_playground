@@ -28,6 +28,7 @@ class When {
         }
     }
 
+
     fun checkRedAndGreen(color: Color): Boolean {
         // 여러개 조건 한줄에 다 쓸 수 있음
         return when (color) {
